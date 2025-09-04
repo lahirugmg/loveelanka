@@ -1,11 +1,11 @@
 export default function InstagramGrid() {
   const imgs = [
-    'https://images.unsplash.com/photo-1549887534-1541e9323e94?q=80&w=600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1549880181-56a44cf4a9a7?q=80&w=600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?q=80&w=600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1532465614-6cc8d45f6472?q=80&w=600&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1458421830557-952c2056e6b8?q=80&w=600&auto=format&fit=crop'
+    'https://picsum.photos/600/600?random=6',
+    'https://picsum.photos/600/600?random=7',
+    'https://picsum.photos/600/600?random=8',
+    'https://picsum.photos/600/600?random=9',
+    'https://picsum.photos/600/600?random=10',
+    'https://picsum.photos/600/600?random=11'
   ];
   return (
     <section className="section" style={{paddingTop:24}}>

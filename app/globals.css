@@ -92,7 +92,7 @@ body {
 .card-body { padding: 14px; }
 
 .hero {
-  background: linear-gradient(0deg, rgba(250,247,242,0.6), rgba(250,247,242,0.6)), url('https://images.unsplash.com/photo-1614680376739-414d48f9b0d1?q=80&w=1600&auto=format&fit=crop');
+  background: linear-gradient(0deg, rgba(250,247,242,0.6), rgba(250,247,242,0.6)), url('https://picsum.photos/1600/1000?random=12');
   background-size: cover;
   background-position: center;
   color: #2b2b2b;

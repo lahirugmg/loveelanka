@@ -19,14 +19,14 @@ const products: Product[] = [
     slug: 'wooden-elephant',
     name: 'Wooden Elephant',
     price: 45,
-    image: 'https://images.unsplash.com/photo-1608571429547-8406ae94b4d9?q=80&w=1200&auto=format&fit=crop',
+    image: 'https://picsum.photos/1200/800?random=3',
     description: 'Carved wooden elephant figurine symbolizing strength and wisdom.'
   },
   {
     slug: 'handwoven-bowl',
     name: 'Handwoven Bowl',
     price: 50,
-    image: 'https://images.unsplash.com/photo-1618835962148-b4cdbb28f1d1?q=80&w=1200&auto=format&fit=crop',
+    image: 'https://picsum.photos/1200/800?random=4',
     description: 'Decorative handwoven bowl with clay and olive tones — a cozy centerpiece.'
   }
 ];

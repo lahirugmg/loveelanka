@@ -5,14 +5,14 @@ const posts: Post[] = [
     slug: 'top-5-things-to-do-in-memphis',
     title: 'Top 5 Things to Do in Memphis',
     excerpt: 'A quick city guide with music, food, and cozy corners to explore on a weekend.',
-    image: 'https://images.unsplash.com/photo-1518463892881-d587bf2c2961?q=80&w=1200&auto=format&fit=crop',
+    image: 'https://picsum.photos/1200/800?random=1',
     content: `Memphis hums with music and soul food. Start at Beale Street, catch live blues, then swing by the National Civil Rights Museum. For food: try a BBQ sampler, and end your day watching the sunset by the river with a warm drink.`
   },
   {
     slug: 'sri-lankan-handmade-batik-explained',
     title: 'Sri Lankan Handmade Batik Explained',
     excerpt: 'From beeswax to vibrant dyes — a simple overview of the batik craft process in Sri Lanka.',
-    image: 'https://images.unsplash.com/photo-1581594693700-87dfb3f7bde0?q=80&w=1200&auto=format&fit=crop',
+    image: 'https://picsum.photos/1200/800?random=2',
     content: `Batik in Sri Lanka blends tradition with vibrant expression. Artisans draw with melted wax, dye in layers, and reveal patterns through careful washing. Each piece carries time, patience, and story.`
   },
   {
